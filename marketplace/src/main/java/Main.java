@@ -5,7 +5,5 @@ public class Main {
         CRM crm = new CRM();
         crm.startApplication();
 
-
-
     }
 }
