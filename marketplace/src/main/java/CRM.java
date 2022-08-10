@@ -62,4 +62,8 @@ public class CRM {
             }
         }
     }
+
+    private void newMethod(){
+        System.out.println("new method");
+    }
 }
